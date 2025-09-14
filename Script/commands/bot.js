@@ -53,11 +53,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "tor ball") || (event.body.toLowerCase() == "bal")) {
-     return api.sendMessage("~ তোমার বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
+     return api.sendMessage("~ তোমার বাল উঠে নাই নাকি?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "niyam") || (event.body.toLowerCase() == "Ullash bai") || (event.body.toLowerCase() == "@Ullash ッ") || (event.body.toLowerCase() == "উল্লাস")) {
-     return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
+  if ((event.body.toLowerCase() == "niyam") || (event.body.toLowerCase() == "Niyam vai") || (event.body.toLowerCase() == "@Niyam Chowdhury") || (event.body.toLowerCase() == "নিয়াম")) {
+     return api.sendMessage("উনি এখন ব্যস্ত আছেন কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
 
        
    };
