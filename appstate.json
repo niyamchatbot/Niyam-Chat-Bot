@@ -1,22 +1,4 @@
-[
-    {
-        "key": "dbln",
-        "value": "%7B%2261580395796824%22%3A%22kI2LcTSm%22%2C%2261575856418054%22%3A%220bI6OdQx%22%7D",
-        "domain": "facebook.com",
-        "path": "/login/device-based/",
-        "hostOnly": false,
-        "creation": "2025-09-14T17:18:49.906Z",
-        "lastAccessed": "2025-09-14T17:18:49.907Z"
-    },
-    {
-        "key": "datr",
-        "value": "YOi5aGzXOM4OrnYfuuMaZVIw",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-09-14T17:18:49.907Z",
-        "lastAccessed": "2025-09-14T17:18:49.907Z"
-    },
+
     {
         "key": "sb",
         "value": "YOi5aIZRrnY-lFSYN9Zsf9Ue",
